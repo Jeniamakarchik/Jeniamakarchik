@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 💡 I have a strong foundation in data science and over five years of practical experience in AI. Currently, I am focused on advancing image analysis tools and methodologies.
 
-🏊‍♀️ Beyond research, I’m an open water swimming enthusiast.
+🏊‍♀️ Beyond research, I am an open water swimming enthusiast.
 
 🎯 Join me on this journey as I explore application of AI in healthcare.
